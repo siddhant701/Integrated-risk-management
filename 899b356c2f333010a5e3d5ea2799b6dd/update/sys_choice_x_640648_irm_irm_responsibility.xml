@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="responsibility" table="x_640648_irm_irm" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>responsibility</element>
+            <name>x_640648_irm_irm</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:19:24</sys_created_on>
+            <sys_id>3d469eb42f333010a5e3d5ea2799b66a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>responsibility</sys_name>
+            <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+            <sys_update_name>sys_choice_x_640648_irm_irm_responsibility</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:19:24</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vimal Dangri / Raman Sapra</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:25:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>499712382f333010a5e3d5ea2799b679</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:25:27</sys_updated_on>
+            <value>Vimal Dangri / Raman Sapra</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Abhishek Singh / Narasimha Murthy</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:20:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de66deb42f333010a5e3d5ea2799b600</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Abhishek Singh / Narasimha Murthy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Vimal Dangri / Raman Sapra</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:24:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>008796f42f333010a5e3d5ea2799b6bc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Vimal Dangri / Raman Sapra</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Arun Agrawal</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:20:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a961eb42f333010a5e3d5ea2799b638</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Arun Agrawal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Arun Agrawal / Vimal Dangri</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:21:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11a69e742f333010a5e3d5ea2799b633</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Arun Agrawal / Vimal Dangri</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hiral Chandrana</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:21:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ceb6deb42f333010a5e3d5ea2799b63a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Hiral Chandrana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maninder Kapoor Puri</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:21:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ac61eb42f333010a5e3d5ea2799b63b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Maninder Kapoor Puri</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Narasimha Murthy</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:22:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44e692f42f333010a5e3d5ea2799b633</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Narasimha Murthy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Narasimha Murthy / Raman Sapra</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:22:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7be6d2f42f333010a5e3d5ea2799b69a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Narasimha Murthy / Raman Sapra</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Narottam Sharma / Mahesh Juttiyavar</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:22:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4407daf42f333010a5e3d5ea2799b68e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Narottam Sharma / Mahesh Juttiyavar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nayan Zad</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:23:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a1796f42f333010a5e3d5ea2799b6f7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Nayan Zad</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rahul Venugopal / Shamy</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:23:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c12792f42f333010a5e3d5ea2799b637</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Rahul Venugopal / Shamy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Raman Sapra</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:23:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9375af42f333010a5e3d5ea2799b6ae</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Raman Sapra</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Respective Functional Heads</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:19:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe06deb42f333010a5e3d5ea2799b678</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Respective Functional Heads</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Umang Nahata</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:24:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6475ef42f333010a5e3d5ea2799b634</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Umang Nahata</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vikram Kole</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:24:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73575af42f333010a5e3d5ea2799b61b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Vikram Kole</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vikram Kole / Rakesh Raman</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a675af42f333010a5e3d5ea2799b6b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Vikram Kole / Rakesh Raman</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>responsibility</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vimal Dangri / Functional owner owning the potential litigation</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:19:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a469eb42f333010a5e3d5ea2799b6f8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:52:54</sys_updated_on>
+            <value>Vimal Dangri / Functional owner owning the potential litigation</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
