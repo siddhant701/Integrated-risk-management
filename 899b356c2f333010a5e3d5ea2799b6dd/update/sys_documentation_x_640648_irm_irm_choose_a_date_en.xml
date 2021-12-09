@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="choose_a_date" label="Choose a Date" language="en" table="x_640648_irm_irm">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>choose_a_date</element>
+            <help/>
+            <hint/>
+            <label>Choose a Date</label>
+            <language>en</language>
+            <name>x_640648_irm_irm</name>
+            <plural>Choose a Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-02 04:13:23</sys_created_on>
+            <sys_id>624e5aa72f000110a5e3d5ea2799b601</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Choose a Date</sys_name>
+            <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+            <sys_update_name>sys_documentation_x_640648_irm_irm_choose_a_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-02 04:13:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

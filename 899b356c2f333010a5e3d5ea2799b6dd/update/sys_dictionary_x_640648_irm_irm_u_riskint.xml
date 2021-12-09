@@ -5,18 +5,23 @@
         <array_denormalized>false</array_denormalized>
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>RISK</column_label>
+        <column_label>Risk priority</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
         <defaultsort/>
         <delete_roles/>
-        <dependent>impact</dependent>
-        <dependent_on_field>impact</dependent_on_field>
+        <dependent/>
+        <dependent_on_field/>
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
@@ -27,7 +32,7 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Choice">choice</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_640648_irm_irm</name>
@@ -49,18 +54,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-15 05:10:08</sys_created_on>
         <sys_id>8048c3062f733010a5e3d5ea2799b611</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>RISK</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Risk priority</sys_name>
         <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
         <sys_policy/>
         <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
         <sys_update_name>sys_dictionary_x_640648_irm_irm_u_riskint</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-15 05:10:09</sys_updated_on>
+        <sys_updated_on>2021-11-29 05:41:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
-        <use_dependent_field>true</use_dependent_field>
+        <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>

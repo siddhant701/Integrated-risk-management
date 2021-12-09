@@ -11,7 +11,7 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>1</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Responsibility</column_label>
@@ -32,15 +32,15 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="">glide_list</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>200</max_length>
         <name>x_640648_irm_irm</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="sys_user">sys_user</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-11-11 04:18:14</sys_created_on>
-        <sys_id>c8e5d6b42f333010a5e3d5ea2799b6bf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2021-11-22 11:57:22</sys_created_on>
+        <sys_id>d578e86c2f800110a5e3d5ea2799b66a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Responsibility</sys_name>
         <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
         <sys_policy/>
         <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
         <sys_update_name>sys_dictionary_x_640648_irm_irm_responsibility</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-11 04:18:14</sys_updated_on>
+        <sys_updated_on>2021-12-07 07:07:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
