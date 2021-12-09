@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>1700</order>
+        <published_ref/>
+        <question display_value="Responsibility">75d557432fb33010a5e3d5ea2799b6d2</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 11:29:22</sys_created_on>
+        <sys_id>197f67c72ff33010a5e3d5ea2799b647</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vimal Dangri/Functional owner owning the potential litigation</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_update_name>question_choice_197f67c72ff33010a5e3d5ea2799b647</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 11:29:22</sys_updated_on>
+        <text>Vimal Dangri/Functional owner owning the potential litigation</text>
+        <value>vimal dangri_functional owner</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=197f67c72ff33010a5e3d5ea2799b647"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>197f67c72ff33010a5e3d5ea2799b647</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 11:29:23</sys_created_on>
+        <sys_id>f4db33432f373010a5e3d5ea2799b67b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 11:29:23</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>197f67c72ff33010a5e3d5ea2799b647</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 11:29:23</sys_created_on>
+        <sys_id>78db33432f373010a5e3d5ea2799b67a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 11:29:23</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</application>
+        <file_path/>
+        <instance_id>7387da5d6f42de406626a9cc5d3ee4e9</instance_id>
+        <instance_name>dev20673</instance_name>
+        <name>question_choice_197f67c72ff33010a5e3d5ea2799b647</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>1700</order><published_ref/><question display_value="Responsibility">75d557432fb33010a5e3d5ea2799b6d2</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-18 11:29:22</sys_created_on><sys_id>197f67c72ff33010a5e3d5ea2799b647</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vimal Dangri/Functional owner owning the potential litigation</sys_name><sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package><sys_policy/><sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope><sys_update_name>question_choice_197f67c72ff33010a5e3d5ea2799b647</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-18 11:29:22</sys_updated_on><text>Vimal Dangri/Functional owner owning the potential litigation</text><value>vimal dangri_functional owner</value></question_choice><fx_price action="delete_multiple" query="id=197f67c72ff33010a5e3d5ea2799b647"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>197f67c72ff33010a5e3d5ea2799b647</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-18 11:29:23</sys_created_on><sys_id>f4db33432f373010a5e3d5ea2799b67b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-18 11:29:23</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>197f67c72ff33010a5e3d5ea2799b647</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-18 11:29:23</sys_created_on><sys_id>78db33432f373010a5e3d5ea2799b67a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-18 11:29:23</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>1289356669</payload_hash>
+        <record_name>Vimal Dangri/Functional owner owning the potential litigation</record_name>
+        <reverted_from/>
+        <source>306c76cf2f333010a5e3d5ea2799b6f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 11:29:23</sys_created_on>
+        <sys_id>b8db33432f373010a5e3d5ea2799b67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d32cef2910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 11:29:23</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>f0db3343d4373010238418053169ce7d</update_guid>
+        <update_guid_history>f0db3343d4373010238418053169ce7d:1289356669</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vimal Dangri/Functional owner owning the potential litigation">e47bd6092fc00110a5e3d5ea2799b65c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-24 09:36:09</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>0eaa6eb4a0274b5a8487c081d60aac71</sys_id>
+        <sys_metadata>197f67c72ff33010a5e3d5ea2799b647</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vimal Dangri/Functional owner owning the potential litigation</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_scope_delete display_value="">8b4f1832e51d4700bcce82c060c90000</sys_scope_delete>
+        <sys_update_name>question_choice_197f67c72ff33010a5e3d5ea2799b647</sys_update_name>
+        <sys_update_version display_value="question_choice_197f67c72ff33010a5e3d5ea2799b647">b8db33432f373010a5e3d5ea2799b67d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-24 09:36:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

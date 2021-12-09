@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="State">4c9022612fd04110a5e3d5ea2799b627</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 09:32:55</sys_created_on>
+        <sys_id>fdd026612fd04110a5e3d5ea2799b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_update_name>question_choice_fdd026612fd04110a5e3d5ea2799b61b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 09:32:55</sys_updated_on>
+        <text>Open</text>
+        <value>open</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=fdd026612fd04110a5e3d5ea2799b61b"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>fdd026612fd04110a5e3d5ea2799b61b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 09:32:55</sys_created_on>
+        <sys_id>71f026612fd04110a5e3d5ea2799b623</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 09:32:55</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>fdd026612fd04110a5e3d5ea2799b61b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 09:32:55</sys_created_on>
+        <sys_id>29f026612fd04110a5e3d5ea2799b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 09:32:55</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</application>
+        <file_path/>
+        <instance_id>7387da5d6f42de406626a9cc5d3ee4e9</instance_id>
+        <instance_name>dev20673</instance_name>
+        <name>question_choice_fdd026612fd04110a5e3d5ea2799b61b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>100</order><published_ref/><question display_value="State">4c9022612fd04110a5e3d5ea2799b627</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-08 09:32:55</sys_created_on><sys_id>fdd026612fd04110a5e3d5ea2799b61b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open</sys_name><sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package><sys_policy/><sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope><sys_update_name>question_choice_fdd026612fd04110a5e3d5ea2799b61b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-08 09:32:55</sys_updated_on><text>Open</text><value>open</value></question_choice><fx_price action="delete_multiple" query="id=fdd026612fd04110a5e3d5ea2799b61b"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>fdd026612fd04110a5e3d5ea2799b61b</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-08 09:32:55</sys_created_on><sys_id>71f026612fd04110a5e3d5ea2799b623</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-08 09:32:55</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>fdd026612fd04110a5e3d5ea2799b61b</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-08 09:32:55</sys_created_on><sys_id>29f026612fd04110a5e3d5ea2799b622</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-08 09:32:55</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-1929818825</payload_hash>
+        <record_name>Open</record_name>
+        <reverted_from/>
+        <source>306c76cf2f333010a5e3d5ea2799b6f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 09:32:55</sys_created_on>
+        <sys_id>f1f026612fd04110a5e3d5ea2799b625</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d996382030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 09:32:55</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>3df0266181d04110bcc082e6ed5f5924</update_guid>
+        <update_guid_history>3df0266181d04110bcc082e6ed5f5924:-1929818825</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Open">d79926292fd04110a5e3d5ea2799b6d8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 10:10:42</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>ed1cf44828e641069f50040055e8dad9</sys_id>
+        <sys_metadata>fdd026612fd04110a5e3d5ea2799b61b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_scope_delete display_value="">8b4f1832e51d4700bcce82c060c90000</sys_scope_delete>
+        <sys_update_name>question_choice_fdd026612fd04110a5e3d5ea2799b61b</sys_update_name>
+        <sys_update_version display_value="question_choice_fdd026612fd04110a5e3d5ea2799b61b">f1f026612fd04110a5e3d5ea2799b625</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 10:10:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

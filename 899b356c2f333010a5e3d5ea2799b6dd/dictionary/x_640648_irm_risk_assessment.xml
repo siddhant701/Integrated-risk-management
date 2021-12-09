@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Risk assessment" max_length="40" name="x_640648_irm_risk_assessment" sizeclass="22" type="collection">
+        <element choice="1" dependent="employee_productivity" dependent_on_field="employee_productivity" label="What is potential impact to Employee Productivity?" max_length="200" name="employee_productivity" type="choice" use_dependent_field="true">
+            <choice>
+                <element inactive_on_update="false" label="Very Low" sequence="1" value="verylow"/>
+                <element inactive_on_update="false" label="Low" sequence="2" value="low"/>
+                <element inactive_on_update="false" label="Moderate" sequence="3" value="moderate"/>
+                <element inactive_on_update="false" label="High" sequence="4" value="high"/>
+                <element inactive_on_update="false" label="Very High" sequence="5" value="veryhigh"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="financial_impact" dependent_on_field="financial_impact" label="What is potential Financial Impact?" max_length="200" name="financial_impact" type="choice" use_dependent_field="true">
+            <choice>
+                <element inactive_on_update="false" label="Very Low" sequence="1" value="verylow"/>
+                <element inactive_on_update="false" label="Low" sequence="2" value="low"/>
+                <element inactive_on_update="false" label="Moderate" sequence="3" value="moderate"/>
+                <element inactive_on_update="false" label="High" sequence="4" value="high"/>
+                <element inactive_on_update="false" label="Very high" sequence="5" value="veryhigh"/>
+            </choice>
+        </element>
+        <element choice="1" label="What is potential Health and Safety Impact?" max_length="200" name="health_and_safety_impact" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Very low" sequence="1" value="verylow"/>
+                <element inactive_on_update="false" label="low" sequence="2" value="low"/>
+                <element inactive_on_update="false" label="Moderate" sequence="3" value="moderate"/>
+                <element inactive_on_update="false" label="High" sequence="4" value="high"/>
+                <element inactive_on_update="false" label="Very High" sequence="5" value="veryhigh"/>
+            </choice>
+        </element>
+        <element choice="1" label="What is potential impact of Fines and Legal Penalties?" max_length="200" name="legal_penalties" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Very Low" sequence="1" value="verylow"/>
+                <element inactive_on_update="false" label="Low" sequence="2" value="low"/>
+                <element inactive_on_update="false" label="Moderate" sequence="3" value="moderate"/>
+                <element inactive_on_update="false" label="High" sequence="4" value="high"/>
+                <element inactive_on_update="false" label="Very High" sequence="5" value="veryhigh"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element choice="1" dependent="reputation_impact" dependent_on_field="reputation_impact" label="What is potential Reputation Impact?" mandatory="true" max_length="200" name="reputation_impact" type="choice" use_dependent_field="true">
+            <choice>
+                <element inactive_on_update="false" label="Very Low" sequence="1" value="verylow"/>
+                <element inactive_on_update="false" label="Low" sequence="2" value="low"/>
+                <element inactive_on_update="false" label="Moderate" sequence="3" value="moderate"/>
+                <element inactive_on_update="false" label="High" sequence="4" value="high"/>
+                <element inactive_on_update="false" label="Very High" sequence="5" value="veryhigh"/>
+            </choice>
+        </element>
+    </element>
+</database>

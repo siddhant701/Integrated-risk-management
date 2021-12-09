@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Risk Register">d14ef63e2f773010a5e3d5ea2799b69d</catalog_item>
+        <catalog_variable>IO:9f8d474f2f733010a5e3d5ea2799b65f</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 15:28:19</sys_created_on>
+        <sys_id>9a62bc5b2fb73010a5e3d5ea2799b6a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_riskint</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_9a62bc5b2fb73010a5e3d5ea2799b6a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 15:28:19</sys_updated_on>
+        <table/>
+        <ui_policy display_value="This is to set the risk priority to Low">1d740c932f373010a5e3d5ea2799b680</ui_policy>
+        <variable>u_riskint</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</application>
+        <file_path/>
+        <instance_id>7387da5d6f42de406626a9cc5d3ee4e9</instance_id>
+        <instance_name>dev20673</instance_name>
+        <name>catalog_ui_policy_action_9a62bc5b2fb73010a5e3d5ea2799b6a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Risk Register">d14ef63e2f773010a5e3d5ea2799b69d</catalog_item><catalog_variable>IO:9f8d474f2f733010a5e3d5ea2799b65f</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-18 15:28:19</sys_created_on><sys_id>9a62bc5b2fb73010a5e3d5ea2799b6a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_riskint</sys_name><sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package><sys_policy/><sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope><sys_update_name>catalog_ui_policy_action_9a62bc5b2fb73010a5e3d5ea2799b6a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-18 15:28:19</sys_updated_on><table/><ui_policy display_value="This is to set the risk priority to Low">1d740c932f373010a5e3d5ea2799b680</ui_policy><variable>u_riskint</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-894648472</payload_hash>
+        <record_name>u_riskint</record_name>
+        <reverted_from/>
+        <source>306c76cf2f333010a5e3d5ea2799b6f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 15:28:20</sys_created_on>
+        <sys_id>8d82785b2fb73010a5e3d5ea2799b628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d33a9b6e90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 15:28:20</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>c582785bdcb73010b6f902abe6764d28</update_guid>
+        <update_guid_history>c582785bdcb73010b6f902abe6764d28:-894648472</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="u_riskint">5f82309b2fb73010a5e3d5ea2799b61e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 15:28:29</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>4a8c97cf66624f3da191c9b6ffed6dc1</sys_id>
+        <sys_metadata>9a62bc5b2fb73010a5e3d5ea2799b6a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_riskint</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_scope_delete display_value="">8b4f1832e51d4700bcce82c060c90000</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_9a62bc5b2fb73010a5e3d5ea2799b6a2</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_9a62bc5b2fb73010a5e3d5ea2799b6a2">8d82785b2fb73010a5e3d5ea2799b628</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 15:28:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

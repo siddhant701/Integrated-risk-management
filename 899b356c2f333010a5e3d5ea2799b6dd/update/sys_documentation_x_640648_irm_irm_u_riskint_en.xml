@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_riskint" label="RISK" language="en" table="x_640648_irm_irm">
+    <sys_documentation element="u_riskint" label="Risk priority" language="en" table="x_640648_irm_irm">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_riskint</element>
             <help/>
             <hint/>
-            <label>RISK</label>
+            <label>Risk priority</label>
             <language>en</language>
             <name>x_640648_irm_irm</name>
-            <plural>RISKs</plural>
+            <plural>Risk priorities</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-11-15 05:10:08</sys_created_on>
             <sys_id>cc48c3062f733010a5e3d5ea2799b614</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>RISK</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Risk priority</sys_name>
             <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
             <sys_policy/>
             <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
             <sys_update_name>sys_documentation_x_640648_irm_irm_u_riskint_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-15 05:10:08</sys_updated_on>
+            <sys_updated_on>2021-11-17 10:30:43</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

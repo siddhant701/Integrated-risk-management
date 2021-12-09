@@ -20,8 +20,8 @@
         <default_value/>
         <defaultsort/>
         <delete_roles/>
-        <dependent/>
-        <dependent_on_field/>
+        <dependent>reputation_impact</dependent>
+        <dependent_on_field>reputation_impact</dependent_on_field>
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
@@ -54,18 +54,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-15 03:36:26</sys_created_on>
         <sys_id>ea82bac22f333010a5e3d5ea2799b6ae</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>What is potential Reputation Impact?</sys_name>
         <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
         <sys_policy/>
         <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
         <sys_update_name>sys_dictionary_x_640648_irm_risk_assessment_reputation_impact</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-15 03:57:14</sys_updated_on>
+        <sys_updated_on>2021-11-17 04:40:59</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
-        <use_dependent_field>false</use_dependent_field>
+        <use_dependent_field>true</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>

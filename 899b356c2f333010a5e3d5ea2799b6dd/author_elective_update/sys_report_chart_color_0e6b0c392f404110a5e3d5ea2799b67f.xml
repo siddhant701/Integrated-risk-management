@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_chart_color">
+    <sys_report_chart_color action="DELETE">
+        <color/>
+        <color_name display_value="Chartreuse">65b30222a9fe3dba00bfe6cad3c512c2</color_name>
+        <display>background-color:#7FFF00</display>
+        <element>impact</element>
+        <name>x_640648_irm_irm</name>
+        <sys_class_name>sys_report_chart_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-26 07:03:09</sys_created_on>
+        <sys_id>0e6b0c392f404110a5e3d5ea2799b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_640648_irm_irm</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_update_name>sys_report_chart_color_0e6b0c392f404110a5e3d5ea2799b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-26 07:03:09</sys_updated_on>
+        <value/>
+    </sys_report_chart_color>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</application>
+        <file_path/>
+        <instance_id>7387da5d6f42de406626a9cc5d3ee4e9</instance_id>
+        <instance_name>dev20673</instance_name>
+        <name>sys_report_chart_color_0e6b0c392f404110a5e3d5ea2799b67f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_chart_color"><sys_report_chart_color action="INSERT_OR_UPDATE"><color/><color_name display_value="Chartreuse">65b30222a9fe3dba00bfe6cad3c512c2</color_name><display>background-color:#7FFF00</display><element>impact</element><name>x_640648_irm_irm</name><sys_class_name>sys_report_chart_color</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-26 07:03:09</sys_created_on><sys_id>0e6b0c392f404110a5e3d5ea2799b67f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_640648_irm_irm</sys_name><sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package><sys_policy/><sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope><sys_update_name>sys_report_chart_color_0e6b0c392f404110a5e3d5ea2799b67f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-26 07:03:09</sys_updated_on><value/></sys_report_chart_color></record_update>]]></payload>
+        <payload_hash>197923638</payload_hash>
+        <record_name>x_640648_irm_irm</record_name>
+        <reverted_from/>
+        <source>306c76cf2f333010a5e3d5ea2799b6f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-26 07:03:09</sys_created_on>
+        <sys_id>879bcc392f404110a5e3d5ea2799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d5b0e16f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-26 07:03:09</sys_updated_on>
+        <type>Chart Colors</type>
+        <update_guid>cf9bcc396d4041109ad1327f3f3eb20a</update_guid>
+        <update_guid_history>cf9bcc396d4041109ad1327f3f3eb20a:197923638</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-29 06:30:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_chart_color">sys_report_chart_color</sys_db_object>
+        <sys_id>276c858c5ddc46bd87faa671fe9046b9</sys_id>
+        <sys_metadata>0e6b0c392f404110a5e3d5ea2799b67f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_640648_irm_irm</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_scope_delete display_value="">8b4f1832e51d4700bcce82c060c90000</sys_scope_delete>
+        <sys_update_name>sys_report_chart_color_0e6b0c392f404110a5e3d5ea2799b67f</sys_update_name>
+        <sys_update_version display_value="sys_report_chart_color_0e6b0c392f404110a5e3d5ea2799b67f">879bcc392f404110a5e3d5ea2799b60b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-29 06:30:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

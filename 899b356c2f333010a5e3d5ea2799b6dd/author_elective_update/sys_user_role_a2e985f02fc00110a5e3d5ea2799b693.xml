@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_640648_irm.role</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>role</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 09:02:06</sys_created_on>
+        <sys_id>a2e985f02fc00110a5e3d5ea2799b693</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_640648_irm.role</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_update_name>sys_user_role_a2e985f02fc00110a5e3d5ea2799b693</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 09:02:30</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</application>
+        <file_path/>
+        <instance_id>7387da5d6f42de406626a9cc5d3ee4e9</instance_id>
+        <instance_name>dev20673</instance_name>
+        <name>sys_user_role_a2e985f02fc00110a5e3d5ea2799b693</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_640648_irm.role</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>role</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-23 09:02:06</sys_created_on><sys_id>a2e985f02fc00110a5e3d5ea2799b693</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_640648_irm.role</sys_name><sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package><sys_policy/><sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope><sys_update_name>sys_user_role_a2e985f02fc00110a5e3d5ea2799b693</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-23 09:02:30</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>791611642</payload_hash>
+        <record_name>x_640648_irm.role</record_name>
+        <reverted_from/>
+        <source>306c76cf2f333010a5e3d5ea2799b6f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 09:02:30</sys_created_on>
+        <sys_id>f52a053c2fc00110a5e3d5ea2799b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d4c0845bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 09:02:30</sys_updated_on>
+        <type>Role</type>
+        <update_guid>312a053c1fc0011002669a1ada38d131</update_guid>
+        <update_guid_history>312a053c1fc0011002669a1ada38d131:791611642,c41a413cc8c00110d13a1af69abeba5b:364779853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_640648_irm.role">a24a853c2fc00110a5e3d5ea2799b68b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 09:03:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>9c78880d88104494aa2c899103989d84</sys_id>
+        <sys_metadata>a2e985f02fc00110a5e3d5ea2799b693</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_640648_irm.role</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_scope_delete display_value="">8b4f1832e51d4700bcce82c060c90000</sys_scope_delete>
+        <sys_update_name>sys_user_role_a2e985f02fc00110a5e3d5ea2799b693</sys_update_name>
+        <sys_update_version display_value="sys_user_role_a2e985f02fc00110a5e3d5ea2799b693">f52a053c2fc00110a5e3d5ea2799b631</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 09:03:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

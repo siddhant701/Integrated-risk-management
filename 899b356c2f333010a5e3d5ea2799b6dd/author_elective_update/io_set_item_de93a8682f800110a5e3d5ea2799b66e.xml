@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>765</order>
+        <sc_cat_item display_value="Risk Register">d14ef63e2f773010a5e3d5ea2799b69d</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 11:35:33</sys_created_on>
+        <sys_id>de93a8682f800110a5e3d5ea2799b66e</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Responsibility users for risk register.Risk Register</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_update_name>io_set_item_de93a8682f800110a5e3d5ea2799b66e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 11:46:30</sys_updated_on>
+        <variable_set display_value="Responsibility users for risk register">eb73ac282f800110a5e3d5ea2799b638</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</application>
+        <file_path/>
+        <instance_id>7387da5d6f42de406626a9cc5d3ee4e9</instance_id>
+        <instance_name>dev20673</instance_name>
+        <name>io_set_item_de93a8682f800110a5e3d5ea2799b66e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>765</order><sc_cat_item display_value="Risk Register">d14ef63e2f773010a5e3d5ea2799b69d</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-22 11:35:33</sys_created_on><sys_id>de93a8682f800110a5e3d5ea2799b66e</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Responsibility users for risk register.Risk Register</sys_name><sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package><sys_policy/><sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope><sys_update_name>io_set_item_de93a8682f800110a5e3d5ea2799b66e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-22 11:46:30</sys_updated_on><variable_set display_value="Responsibility users for risk register">eb73ac282f800110a5e3d5ea2799b638</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-1505775732</payload_hash>
+        <record_name>Responsibility users for risk register.Risk Register</record_name>
+        <reverted_from/>
+        <source>306c76cf2f333010a5e3d5ea2799b6f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 11:46:30</sys_created_on>
+        <sys_id>62162ce82f800110a5e3d5ea2799b6da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d47780f4d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 11:46:30</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>aa162ce8d98001100fff57b3f61c9cd9</update_guid>
+        <update_guid_history>aa162ce8d98001100fff57b3f61c9cd9:-1505775732,e0d524e8868001105a5b85efc217d0c0:1182139270,bf35a0e89e800110d3db79c69aa53f74:1585781393,2e93a8682d80011026cfc43e17730f94:-649580473</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Responsibility users for risk register.Risk Register">d9c806892f800110a5e3d5ea2799b68b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-24 08:14:33</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>298b67dd40854740ae622c50e4055ac1</sys_id>
+        <sys_metadata>de93a8682f800110a5e3d5ea2799b66e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Responsibility users for risk register.Risk Register</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_scope_delete display_value="">8b4f1832e51d4700bcce82c060c90000</sys_scope_delete>
+        <sys_update_name>io_set_item_de93a8682f800110a5e3d5ea2799b66e</sys_update_name>
+        <sys_update_version display_value="io_set_item_de93a8682f800110a5e3d5ea2799b66e">62162ce82f800110a5e3d5ea2799b6da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-24 08:14:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

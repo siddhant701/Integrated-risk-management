@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Risk Assessing">ac6bc8562f373010a5e3d5ea2799b605</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 10:23:56</sys_created_on>
+        <sys_id>301054962f373010a5e3d5ea2799b6e2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Assessing variables.Risk Assessing</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_update_name>io_set_item_301054962f373010a5e3d5ea2799b6e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 10:23:56</sys_updated_on>
+        <variable_set display_value="Assessing variables">177f085a2f373010a5e3d5ea2799b652</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</application>
+        <file_path/>
+        <instance_id>7387da5d6f42de406626a9cc5d3ee4e9</instance_id>
+        <instance_name>dev20673</instance_name>
+        <name>io_set_item_301054962f373010a5e3d5ea2799b6e2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Risk Assessing">ac6bc8562f373010a5e3d5ea2799b605</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-15 10:23:56</sys_created_on><sys_id>301054962f373010a5e3d5ea2799b6e2</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Assessing variables.Risk Assessing</sys_name><sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package><sys_policy/><sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope><sys_update_name>io_set_item_301054962f373010a5e3d5ea2799b6e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-15 10:23:56</sys_updated_on><variable_set display_value="Assessing variables">177f085a2f373010a5e3d5ea2799b652</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-316939181</payload_hash>
+        <record_name>Assessing variables.Risk Assessing</record_name>
+        <reverted_from/>
+        <source>419b356c2f333010a5e3d5ea2799b6e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 10:23:56</sys_created_on>
+        <sys_id>7010dc5a2f373010a5e3d5ea2799b64c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d231ff5150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 10:23:56</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>b810dc5a7b3730108f41872b31fa6a4b</update_guid>
+        <update_guid_history>b810dc5a7b3730108f41872b31fa6a4b:-316939181</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Assessing variables.Risk Assessing">4ca3609a2f773010a5e3d5ea2799b6bd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 11:49:21</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>05782fd2644a4b88928ea29a57adf369</sys_id>
+        <sys_metadata>301054962f373010a5e3d5ea2799b6e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assessing variables.Risk Assessing</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_scope_delete display_value="">8b4f1832e51d4700bcce82c060c90000</sys_scope_delete>
+        <sys_update_name>io_set_item_301054962f373010a5e3d5ea2799b6e2</sys_update_name>
+        <sys_update_version display_value="io_set_item_301054962f373010a5e3d5ea2799b6e2">7010dc5a2f373010a5e3d5ea2799b64c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 11:49:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

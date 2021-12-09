@@ -4,7 +4,7 @@
         <misc>0</misc>
         <order>100</order>
         <published_ref/>
-        <question display_value="By When2">c78ba7ad2fcc0110a5e3d5ea2799b6ac</question>
+        <question display_value="By When">c78ba7ad2fcc0110a5e3d5ea2799b6ac</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>

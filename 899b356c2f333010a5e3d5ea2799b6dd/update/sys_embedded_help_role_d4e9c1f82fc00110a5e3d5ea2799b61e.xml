@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_640648_irm.risk owner" name="x_640648_irm.risk owner">06d805f82fc00110a5e3d5ea2799b6cc</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 09:01:18</sys_created_on>
+        <sys_id>d4e9c1f82fc00110a5e3d5ea2799b61e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>06d805f82fc00110a5e3d5ea2799b6cc</sys_name>
+        <sys_package display_value="IRM" source="x_640648_irm">899b356c2f333010a5e3d5ea2799b6dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IRM">899b356c2f333010a5e3d5ea2799b6dd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d4e9c1f82fc00110a5e3d5ea2799b61e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 09:01:18</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
